@@ -6,6 +6,9 @@ public class StringClass {
 
         System.out.println("Hell world");
 
+        String str = "Java";
+        System.out.println(str);
+
 
     }
 }
