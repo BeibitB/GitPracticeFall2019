@@ -10,6 +10,10 @@ public class LoopPractice {
             System.out.println("####hhhh");
 
             System.out.println("World");
+
+
         }
+        int i =10;
+
     }
 }
