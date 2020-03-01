@@ -8,6 +8,8 @@ public class LoopPractice {
             System.out.println("Hello");
 
             System.out.println("####");
+
+            System.out.println("World");
         }
     }
 }
