@@ -6,6 +6,7 @@ public class Colors {
 
 
         String []colors= {"red","blue"};
+        //this is just commit
 
     }
 }
